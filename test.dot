@@ -1,0 +1,7 @@
+digraph {
+    a[label="a-dayo"];
+    b[label="b-dayo"];
+
+    a->b[label="a to b"];
+    a->c[label="a to c"];
+}
